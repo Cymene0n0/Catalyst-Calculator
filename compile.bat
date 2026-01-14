@@ -1,0 +1,1 @@
+python -m PyInstaller --noconsole --onefile --icon=aaa.ico --version-file=file_version_info.txt calc.py
